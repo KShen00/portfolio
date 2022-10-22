@@ -1,0 +1,37 @@
+.center {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.list {
+  font-family: sans-serif;
+  text-align: left; 
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.newness {
+  color: purple
+}
+
+img {
+  float: center;
+  width: 77%;
+  height: auto;
+  border: 20px;
+  padding: 10px;
+  background-color: aliceblue;
+  margin: 12px;
+  box-sizing: border-box;
+}
+
+
+.cat {
+  text-align: center;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
