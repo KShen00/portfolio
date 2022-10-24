@@ -6,9 +6,11 @@
 
 ## Technologies Used
 
-* _VS code_
-* _Terminal_
+* _HTML_
+* _CSS_
+* _Bootstrap_
 * _GitHub_
+* _VS Code_
 
 ## Description
 
