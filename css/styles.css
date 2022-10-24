@@ -1,15 +1,19 @@
-.center {
-  text-align: center;
+
+body {
   font-family: sans-serif;
 }
 
+.center {
+  text-align: center;
+  
+}
+
 .list {
-  font-family: sans-serif;
   text-align: left; 
 }
 
 p {
-  font-family: sans-serif;
+ 
   text-align: left;
 }
 
