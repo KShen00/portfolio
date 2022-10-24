@@ -2,7 +2,7 @@
 
 #### By _**KJ Sheng**_
 
-#### _A portfolio about me, projects completed skill and interests._
+#### _A portfolio about me, projects completed, skill and interests._
 
 #### _GitHub landing page found <a href="https://github.com/KShen00/portfolio/tree/gh-pages">here.</a>_
 
