@@ -4,6 +4,8 @@
 
 #### _A portfolio about me, projects completed skill and interests._
 
+#### _GitHub landing page found here: https://github.com/KShen00/portfolio/blob/gh-pages/readme.md._
+
 ## Technologies Used
 
 * _HTML_
@@ -22,7 +24,7 @@ _This portfolio gives a brief overview of my accomplishments, interests and skil
 
 ## Known Bugs
 
-* _CSS style when resizing image_
+* _Noo known bugs_
 
 
 Copyright (c) _2022_ _KShen_
