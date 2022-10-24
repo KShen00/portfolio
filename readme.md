@@ -26,7 +26,7 @@ _This portfolio gives a brief overview of my accomplishments, interests and skil
 
 ## Known Bugs
 
-* _Noo known bugs_
+* _No known bugs_
 
 
 Copyright (c) _2022_ _KShen_
