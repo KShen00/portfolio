@@ -4,7 +4,7 @@
 
 #### _A portfolio about me, projects completed skill and interests._
 
-#### _GitHub landing page found here: https://github.com/KShen00/portfolio/blob/gh-pages/readme.md._
+#### _GitHub landing page found <a href="https://github.com/KShen00/portfolio/tree/gh-pages">here.</a>_
 
 ## Technologies Used
 
