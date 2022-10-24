@@ -20,7 +20,9 @@ _This portfolio gives a brief overview of my accomplishments, interests and skil
 
 ## Setup/Installation Requirements
 
-* _Portfolio is viewable on any web browser with sufficient internet connection_
+* _Copy this repository URL: https://github.com/KShen00/portfolio/tree/main_
+* _Open Gitbash or Terminal and change directory to desktop, type $ git clone, then paste above URL and press "enter"._
+* _Enter $ code . to open html in text editor, or double click html file to open in web browser._
 
 ## Known Bugs
 
