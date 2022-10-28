@@ -21,7 +21,11 @@ p {
   color: purple
 }
 
-img {
+.cat {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   float: center;
   width: 77%;
   height: auto;
@@ -33,10 +37,29 @@ img {
   box-sizing: border-box;
 }
 
+.column {
+  float: left;
+  width: 25%;
+  padding: 25px;
+}
 
-.cat {
+.border {
+  border: thick double #32a1ce;
+  margin: 12px;
+  padding: 5px;
+}
+
+img {
+  float: center;
   text-align: center;
-  display:block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
+  float: center;
+  width: 27%;
+  height: auto;
+  padding: 10px;
+  background-color: rgb(167, 252, 252);
+  margin: 12px;
+  box-sizing: border-box;
 }
