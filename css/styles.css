@@ -1,19 +1,19 @@
-
 body {
-  font-family: sans-serif;
+  background-color: rgb(202, 245, 251);
 }
 
 .center {
   text-align: center;
-  
+  font-family: sans-serif;
 }
 
 .list {
+  font-family: sans-serif;
   text-align: left; 
 }
 
 p {
- 
+  font-family: sans-serif;
   text-align: left;
 }
 
@@ -26,8 +26,9 @@ img {
   width: 77%;
   height: auto;
   border: 20px;
+  border-style: dotted;
   padding: 10px;
-  background-color: aliceblue;
+  background-color: rgb(167, 252, 252);
   margin: 12px;
   box-sizing: border-box;
 }
